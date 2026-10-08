@@ -5,8 +5,7 @@
     "description": "The skeleton application for the Laravel framework.",
     "keywords": [
         "laravel",
-        "framework",
-        "LOL"
+        "framework"
     ],
     "license": "MIT",
     "require": {
